@@ -1,6 +1,3 @@
-### Roots - Salt Stress - Forward Genetics - R
-
-
 ### Halloski! 
 
 I am Magda and I work as a Postdoctoral Fellow in the [group](http://saltyworld.org) of Prof. Mark Tester in [KAUST](http://kaust.edu.sa), Saudi Arabia. In my research I focus on how salt stress affects plant architecture (especially the underground bit of the plant). 

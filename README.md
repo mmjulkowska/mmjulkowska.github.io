@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Magdalena Julkowska
+# Roots - Salt Stress - Forward Genetics - R
 
 You can use the [editor on GitHub](https://github.com/mmjulkowska/mmjulkowska.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

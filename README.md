@@ -118,7 +118,7 @@ The plant root is the first organ to encounter salinity stress, but the effect o
 
 After the publication of the paper, I was approached by Guillaume Lobet, who constructed a shiny-tool for Root-Fit. You can find the GitHub repository [here](https://github.com/RootFitProject/RootFitProject.github.io).
 
-The paper was published as [Julkowska et al., Plant Physiology 2014,  Nov;166(3):1387-402. doi: 10.1104/pp.114.248963] (http://www.plantphysiol.org/content/166/3/1387.long)
+The paper was published as [Julkowska et al., Plant Physiology 2014, 166:1387-402. doi: 10.1104/pp.114.248963](http://www.plantphysiol.org/content/166/3/1387.long)
 
 ## LIST OF PUBLICATIONS:
 

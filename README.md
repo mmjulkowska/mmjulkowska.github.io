@@ -116,9 +116,9 @@ The paper was published as [Julkowska et al., The Journal of Experimental Botany
 
 The plant root is the first organ to encounter salinity stress, but the effect of salinity on root system architecture (RSA) remains elusive. Both the reduction in main root (MR) elongation and the redistribution of the root mass between MRs and lateral roots (LRs) are likely to play crucial roles in water extraction efficiency and ion exclusion. To establish which RSA parameters are responsive to salt stress, we performed a detailed time course experiment in which Arabidopsis (Arabidopsis thaliana) seedlings were grown on agar plates under different salt stress conditions. We captured RSA dynamics with quadratic growth functions (root-fit) and summarized the salt-induced differences in RSA dynamics in three growth parameters: MR elongation, average LR elongation, and increase in number of LRs. In the ecotype Columbia-0 accession of Arabidopsis, salt stress affected MR elongation more severely than LR elongation and an increase in LRs, leading to a significantly altered RSA. By quantifying RSA dynamics of 31 different Arabidopsis accessions in control and mild salt stress conditions, different strategies for regulation of MR and LR meristems and root branching were revealed. Different RSA strategies partially correlated with natural variation in abscisic acid sensitivity and different Na(+)/K(+) ratios in shoots of seedlings grown under mild salt stress. Applying root-fit to describe the dynamics of RSA allowed us to uncover the natural diversity in root morphology and cluster it into four response types that otherwise would have been overlooked.
 
-The paper was published as [Julkowska et al., Plant Physiology 2014,  Nov;166(3):1387-402. doi: 10.1104/pp.114.248963] (http://www.plantphysiol.org/content/166/3/1387.long)
-
 After the publication of the paper, I was approached by Guillaume Lobet, who constructed a shiny-tool for Root-Fit. You can find the GitHub repository [here](https://github.com/RootFitProject/RootFitProject.github.io).
+
+The paper was published as [Julkowska et al., Plant Physiology 2014,  Nov;166(3):1387-402. doi: 10.1104/pp.114.248963] (http://www.plantphysiol.org/content/166/3/1387.long)
 
 ## LIST OF PUBLICATIONS:
 

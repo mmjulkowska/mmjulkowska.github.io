@@ -1,32 +1,26 @@
 ## Halloski! 
 
-Welcome to my personal website - I am Magda and I work as a Postdoctoral Fellow in the [group of Prof. Mark Tester](http://saltyworld.org) in [KAUST](http://kaust.edu.sa), Saudi Arabia. In my research I focus on how salt stress affects plant architecture (especially the underground bit of the plant). 
+Welcome to my personal website - I am Magda and I work as a Postdoctoral Fellow in the [group of Prof. Mark Tester](http://saltyworld.org) in [KAUST](http://kaust.edu.sa), Saudi Arabia. I am using molecular biology tools to answer questions on the whole plant physiology level, especially questions concerining the effect of stress (especially salt) on the plant architecture (especially root). I pick my favourite genes based on the forward genetic studies (GWAS), as well as RNAseq results from lines differing in salinity tolerance. For the evaluation of the role of my favourite gene, I apply simple descriptive models describing plant growth or change in the individual aspect of plant architecture throughout time and stress exposure. I like to share the developed scripts in the form of the shiny apps and data analysis pipelines (see [Current projects](#-current-projects) below).
 
 ## MY BIO:
 
 I was born in [Zyrardow](https://en.wikipedia.org/wiki/%C5%BByrard%C3%B3w), a small industrial city in Poland build with red-bricks. My parents moved to the Netherlands, where I finished my high-school and started my intellectual germination at the University of Amsterdam. I got my BSc degree in General Biology and MSc degree in Green Life Science. During my MSc degree I did two fun MSc projects, one in Amsterdam, focusing on [SnRK2.4/2.10 interaction with phospholipids](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533798/) and the other one in Canberra, on [blue-light induced processes leading to germination of wheat](https://www.ncbi.nlm.nih.gov/pubmed/23588419).
 
-Later, my seedling brain was nurtured by Prof. Christa Testerink, during my PhD project. I studied Root System Architecture of Arabidopsis HapMap population, developed a simple Root-Fit model to describe stress-induced reprogramming of the architecture, and explored the salt stress induced changes in the rosette size. During my PhD I also studied on protein-lipid interactions using [liposome binding assays](https://link.springer.com/protocol/10.1007%2F978-1-62703-401-2_24) focusing on the interactions between [Phosphatidic Acid and Arabidopsis SnRK2.4/2.10 proteins](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.12421). 
+Later, my seedling brain was nurtured by Prof. Christa Testerink, during my PhD project. I studied Root System Architecture of Arabidopsis HapMap population, developed a simple Root-Fit model to describe stress-induced reprogramming of the architecture, and explored the salt stress induced changes in the rosette size. During my PhD I also studied on protein-lipid interactions using [liposome binding assays](https://link.springer.com/protocol/10.1007%2F978-1-62703-401-2_24) focusing on the interactions between [Phosphatidic Acid and Arabidopsis SnRK2.4/2.10 proteins](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.12421). Together with (back then) BSc. student Elmer Swart we collected some Arabidopsis accessions throughout the Netherlands, to examine their salinity tolerance.
 
-Additionally, together with (back then) BSc. student Elmer Swart we collected some Arabidopsis accessions throughout the Netherlands, to examine their salinity tolerance.
+![nlacc](https://user-images.githubusercontent.com/14832460/38663620-f8a46054-3e3f-11e8-8d6d-b5a07d66a35e.jpg)
 
-![screenshot 2018-04-07 22 09 28](https://user-images.githubusercontent.com/14832460/38459292-94ece320-3ab0-11e8-9972-59b0c7ad0e3d.png)
-![magdalena-julkowska-sils-uva](https://user-images.githubusercontent.com/14832460/38459344-14f67284-3ab1-11e8-998f-6c071f672c8e.jpeg)
-
-Right now I am having a post-doc fun in KAUST Saudi Arabia. I am focusing on (1) salt-induced changes in root-to-shoot ratio in Arabidopsis, (2) study the expression patterns in plants with enhanced sodium accumulation in their roots and (3) developing tools for data analysis based on R/Shiny. I am passionate about capturing plant architecture using simple models, understanding plant physiology and salinity tolerance. I love coding in R, BIG data analysis and sharing whatever I know with whomever cares to listen. 
+Right now I am having a post-doc fun in KAUST Saudi Arabia. I am focusing on (1) salt-induced changes in root-to-shoot ratio in Arabidopsis, (2) study the expression patterns in plants with enhanced sodium accumulation in their roots and (3) developing tools for data analysis based on R/Shiny. I am passionate about capturing plant architecture using simple models, understanding plant physiology and salinity tolerance. I love coding in R, BIG data analysis and sharing whatever I know with whomever cares to listen. I am also quite proficient in classic molecular biology and high-throughput phenotyping. Occasionally, I join for fieldwork - either looking for native Saudi Arabidopsis, or digging out the tomatoes from the field trials to look at their roots.
 
 ![cropped-head-triptic](https://user-images.githubusercontent.com/14832460/38459301-ae5d5e84-3ab0-11e8-80d4-0959563ba1da.jpg)
 
-Occasionally, I join for fieldwork - either looking for native Saudi Arabidopsis, or digging out the tomatoes from the field trials to look at their roots.
-
-![img_0473](https://user-images.githubusercontent.com/14832460/38459304-b4e4d390-3ab0-11e8-9cd3-4046e9f3a062.jpg)
-
 I am an [active reviewer](https://publons.com/author/1329791/magdalena-m-julkowska#profile) for plant science journals, a [reviewing editor at Frontiers in Plant Science](https://loop.frontiersin.org/people/345613/overview) and a [Plantae Fellow](https://community.plantae.org/user/mmjulkowska) writting small paper summaries for ["What we're reading"](https://plantae.org/research/wwrtw/) series, which appears weakly on the Plantae website. You can find the bits that I write [here](https://community.plantae.org/user/mmjulkowska/articles). 
 
-![img_0152](https://user-images.githubusercontent.com/14832460/38464519-af9bd3fe-3b17-11e8-9979-830404b8bbd7.jpg)
+![saudi_lab](https://user-images.githubusercontent.com/14832460/38663621-f8cdb5da-3e3f-11e8-9b88-729cb846ecbb.jpg)
 
 Working at KAUST gives me a unique opportunity to experience culture and landscape that is very different from my own. You can read about my experiences of the Middle East on [my blog](https://mmjulkowska.wordpress.com/). 
 
+![img_0152](https://user-images.githubusercontent.com/14832460/38464519-af9bd3fe-3b17-11e8-9979-830404b8bbd7.jpg)
 
 ## MY RESEARCH:
 

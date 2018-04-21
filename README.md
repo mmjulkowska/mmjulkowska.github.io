@@ -78,7 +78,19 @@ Previous studies describe that high expression of Arabidopsis High Affinity K+ T
 ## SNPer - precision GWAS mapping
 ```
 
-The Forward genetic screens are a great tool to establish the links between the genetic code and the observed phenotype. However, this can get a little messy, when you are using different models and many different traits as input for your mapping. As the number of SNPs that you can use for mapping is increasing, it is often very difficult to make a visual inspection of the mapping. Using SNPer, you can inspect the GWAS results for multiple traits at the same time and examine the overlapping associations between different traits at the resolution that you want - due to the interactive plotly graphs. The tool is available [here](), instructions on how to use it are [here](https://mmjulkowska.github.io/SNPer/), while the code for the SNPer is available [here](https://github.com/mmjulkowska/SNPer)
+![screenshot 2018-04-21 11 47 03](https://user-images.githubusercontent.com/14832460/39082313-e56a563a-4559-11e8-8747-f39969350e97.png)
+
+The Forward genetic screens are a great tool to establish the links between the genetic code and the observed phenotype. However, this can get a little messy, when you are using different models and many different traits as input for your mapping. As the number of SNPs that you can use for mapping is increasing, it is often very difficult to make a visual inspection of the mapping. Using SNPer, you can inspect the GWAS results for multiple traits at the same time and examine the overlapping associations between different traits at the resolution that you want - due to the interactive plotly graphs. The tool is available [here](https://mmjulkowska.shinyapps.io/SNPer/), instructions on how to use it are [here](https://mmjulkowska.github.io/SNPer/), while the code for the SNPer is available [here](https://github.com/mmjulkowska/SNPer). DOI: not-yet-there
+
+## COLLABORATIVE PROJECTS
+
+```
+## La isla de tomate
+```
+
+![tab4a](https://user-images.githubusercontent.com/14832460/39082286-6175765c-4559-11e8-8d3b-4242c813d6b9.png)
+
+Ever wondered how salt tolerant the tomatos from Galapagos Island are? A PhD student in KAUST, [Yveline Pailles](https://saltlab.kaust.edu.sa/Pages/Yveline%20Pailles.aspx), explored the salt stress responses of Galapagos accessions of two tomato species Solanum cheesemanea and Solanum galapagense. I helped her with some data analysis and designed an interactive data exploration tool that is available [here](https://mmjulkowska.shinyapps.io/La_isla_de_tomato/). Instructions on how to use the app are available [here](http://mmjulkowska.github.io/La_isla_de_tomato), and the code can be found [here](https://github.com/mmjulkowska/La_isla_de_tomato). DOI: 10.5281/zenodo.1226455
 
 ## PAST PROJECTS:
 

@@ -1,12 +1,12 @@
 ## Halloski! 
 
-Welcome to my personal website - I am Magda and I work as a Postdoctoral Fellow in the [group of Prof. Mark Tester](http://saltyworld.org) in [KAUST](http://kaust.edu.sa), Saudi Arabia. I am using molecular biology tools to answer questions on the whole plant physiology level, especially questions concerining the effect of stress (especially salt) on the plant architecture (especially root). I pick my favourite genes based on the forward genetic studies (GWAS), as well as RNAseq results from lines differing in salinity tolerance. For the evaluation of the role of my favourite gene, I apply simple descriptive models describing plant growth or change in the individual aspect of plant architecture throughout time and stress exposure. I like to share the developed scripts in the form of the shiny apps and data analysis pipelines (see [CURRENT PROJECTS](#current-projects) below).
+Welcome to my personal website - I am Magdalena and I work as a Postdoctoral Fellow in the [group of Prof. Mark Tester](http://saltyworld.org) in [KAUST](http://kaust.edu.sa), Saudi Arabia. I am a plant physiologist interested in how plant architecture affects plant tolerance to different abiotic stresses. I pick my favourite genes, affecting plant architecture, based on the forward genetic studies (GWAS), as well as RNAseq results from lines differing in salinity tolerance and root architecture. I develop simple models describing the change in the individual elements of plant architecture throughout time and use them to simplify the complexity of the entire plant. I like to share the developed pipelines for data analysis in the form of the shiny apps and data analysis pipelines (see [CURRENT PROJECTS](#current-projects) below).
 
 ## MY BIO:
 
-I was born in [Zyrardow](https://en.wikipedia.org/wiki/%C5%BByrard%C3%B3w), a small industrial city in Poland build with red-bricks. My parents moved to the Netherlands, where I finished my high-school and started my intellectual germination at the University of Amsterdam. I got my BSc degree in General Biology and MSc degree in Green Life Science. During my MSc degree I did two fun MSc projects, one in Amsterdam, focusing on [SnRK2.4/2.10 interaction with phospholipids](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533798/) and the other one in Canberra, on [blue-light induced processes leading to germination of wheat](https://www.ncbi.nlm.nih.gov/pubmed/23588419).
+I was born in [Zyrardow](https://en.wikipedia.org/wiki/%C5%BByrard%C3%B3w), a small industrial city in Poland build with red-bricks. My parents moved to the Netherlands, where I finished my high-school and started my intellectual germination at the University of Amsterdam. There I got my BSc degree in General Biology and MSc degree in Green Life Science. During my MSc degree I did two fun MSc projects, one in Amsterdam, focusing on [SnRK2.4/2.10 interaction with phospholipids](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3533798/) and the other one in Canberra, on [blue-light induced processes leading to germination of wheat](https://www.ncbi.nlm.nih.gov/pubmed/23588419).
 
-Later, my seedling brain was nurtured by Prof. Christa Testerink, during my PhD project. I studied Root System Architecture of Arabidopsis HapMap population, developed a simple Root-Fit model to describe stress-induced reprogramming of the architecture, and explored the salt stress induced changes in the rosette size. During my PhD I also studied on protein-lipid interactions using [liposome binding assays](https://link.springer.com/protocol/10.1007%2F978-1-62703-401-2_24) focusing on the interactions between [Phosphatidic Acid and Arabidopsis SnRK2.4/2.10 proteins](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.12421). Together with (back then) BSc. student Elmer Swart we collected some Arabidopsis accessions throughout the Netherlands, to examine their salinity tolerance.
+Later, my seedling brain was nurtured by Prof. Christa Testerink, during my PhD project at University of Amsterdam. I studied [Root System Architecture of Arabidopsis HapMap population](http://www.plantcell.org/content/early/2017/11/07/tpc.16.00680), developed a simple [Root-Fit model](http://www.plantphysiol.org/content/166/3/1387.long) to describe stress-induced reprogramming of the architecture, and explored the salt stress induced changes in the rosette size and identified a new gene [LRR-KISS](https://academic.oup.com/jxb/article-lookup/doi/10.1093/jxb/erw015) to be important for growth maintenance under saline conditions. During my PhD I also studied on protein-lipid interactions using [liposome binding assays](https://link.springer.com/protocol/10.1007%2F978-1-62703-401-2_24) focusing on the interactions between [Phosphatidic Acid and Arabidopsis SnRK2.4/2.10 proteins](https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.12421). Together with (back then) BSc. student Elmer Swart we collected some Arabidopsis accessions throughout the Netherlands, to examine their salinity tolerance.
 
 ![nlacc](https://user-images.githubusercontent.com/14832460/38663620-f8a46054-3e3f-11e8-8d6d-b5a07d66a35e.jpg)
 
@@ -14,7 +14,7 @@ Right now I am having a post-doc fun in KAUST Saudi Arabia. I am focusing on (1)
 
 ![cropped-head-triptic](https://user-images.githubusercontent.com/14832460/38459301-ae5d5e84-3ab0-11e8-80d4-0959563ba1da.jpg)
 
-I am an [active reviewer](https://publons.com/author/1329791/magdalena-m-julkowska#profile) for plant science journals, a [reviewing editor at Frontiers in Plant Science](https://loop.frontiersin.org/people/345613/overview) and a [Plantae Fellow](https://community.plantae.org/user/mmjulkowska) writting small paper summaries for ["What we're reading"](https://plantae.org/research/wwrtw/) series, which appears weakly on the Plantae website. You can find the bits that I write [here](https://community.plantae.org/user/mmjulkowska/articles). 
+I am an [active reviewer](https://publons.com/author/1329791/magdalena-m-julkowska#profile) for plant science journals, a reviewing editor at [Frontiers in Plant Science](https://loop.frontiersin.org/people/345613/overview) and a [Plantae Fellow](https://community.plantae.org/user/mmjulkowska) writting small paper summaries for ["What we're reading"](https://plantae.org/research/wwrtw/) series, which appears weakly on the Plantae website. You can find the bits that I write [here](https://community.plantae.org/user/mmjulkowska/articles). 
 
 ![saudi_lab](https://user-images.githubusercontent.com/14832460/38663621-f8cdb5da-3e3f-11e8-9b88-729cb846ecbb.jpg)
 
@@ -30,7 +30,7 @@ My hypothesis is that plants able to adapt their architecture most effectively t
 
 ![image](https://user-images.githubusercontent.com/14832460/38464772-f2f0a1a8-3b1b-11e8-9e66-dd77fb9feea1.png)
 
-Salt stress induces quiescence of growth through modification of cell cycle activity, cell expansion and cell wall extensibility. The period of initial growth arrest and the extent of recovered growth differs between individual organs leading to altered plant morphology. So far we studied altered morphology of Root System Architecture, by capturing growth dynamics in simple descriptive models. By examining natural variation therein we identified four distinct responses, which corresponded to maintenance of ion equilibrium in shoot tissue. When Root System Architecture data was used for Genome Wide Association Studies, we were able to identify a number of novel candidate genes as well as genes previously linked to salinity tolerance, for which we unravelled their role in root development. Our results show how study of growth dynamics lead to novel plant trait discovery, which is especially relevant in these times of fast development in plant phenotyping approaches.
+Salt stress induces quiescence of growth through modification of cell cycle activity, cell expansion and cell wall extensibility. The period of initial growth arrest and the extent of recovered growth differs between individual organs leading to altered plant morphology. So far we studied altered morphology of Root System Architecture, by capturing growth dynamics in simple descriptive models, like [Root-Fit](http://www.plantphysiol.org/content/166/3/1387.long). By examining natural variation therein we identified four distinct responses, which correspond to maintenance of ion equilibrium in shoot tissue. When Root System Architecture data was used for [Genome Wide Association Studies](http://www.plantcell.org/content/early/2017/11/07/tpc.16.00680), we were able to identify a number of novel candidate genes as well as genes previously linked to salinity tolerance, for which we unravelled their role in root development. Our results show how study of growth dynamics lead to novel plant trait discovery, which is especially relevant in these times of fast development in plant phenotyping approaches.
 
 
 ## CURRENT PROJECTS:
@@ -42,7 +42,7 @@ Salt stress induces quiescence of growth through modification of cell cycle acti
 
 Plants are master shape-shifters, constantly adapting their architecture to enhance resource acquisition, ensuring reproductive success. These metamorphoses are governed by genotype and environment (GxE) interactions. Understanding the full range of plant’s morphological versatility, environmental triggers and adaptive relevance often requires a thorough assessment of large numbers of genotypes under various conditions. Recent advances in phenotyping technologies allow the high-throughput quantification of traits reflecting plant size, shape, photosynthetic efficiency and transpiration rate. With increasing number of phenotypes it is becoming increasingly crucial, and proportionally complicated, to identify redundancy, correlations, and impact in phenotypic datasets. 
 
-To adress all of the above, together with a group of five talented PhD students at KAUST, we developed the MVApp [MVApp](http://mvapp.kaust.edu.sa/MVApp/), a user-friendly multivariate analysis tool for large or small datasets.
+To adress all of the above, together with a group of five PhD students at KAUST, we developed the [MVApp](http://mvapp.kaust.edu.sa/MVApp/), a user-friendly multivariate analysis tool for large or small datasets.
 
 The MVApp features include:
 1.	Curve fitting for plant growth estimation
@@ -73,6 +73,12 @@ Notably, salt stress rapidly impacts the growth and development of different pla
 ![uas-hkt1 rnaseq](https://user-images.githubusercontent.com/14832460/38464864-35faaef2-3b1d-11e8-9a2d-1542d1ea4cfc.png)
 
 Previous studies describe that high expression of Arabidopsis High Affinity K+ Transporter (HKT1;1), sequestering sodium from the transpiration stream in root pericycle, results in increased salinity tolerance. Our results show that pericycle specific overexpression of HKT1 results in reduced lateral root development under saline conditions. Interestingly, this effect seems to be specific to dicot species, as wheat lines with high HKT1 expression do not show reduction in secondary lateral roots. In this project we identify the transcriptional regulation of lateral root development downstream of HKT1 through comparative transcriptomic analysis of two lines with stelar overexpression of HKT1. Among the transcripts that were expressed differentially between HKT1 overexpression lines and their background lines, we found genes involved in cell differentiation, ABA signaling and transport. Further validation of identified candidate genes will enhance our understanding of processes controlling plant development under abiotic stress conditions and the importance of root architecture for salinity tolerance. 
+
+```
+## SNPer - precision GWAS mapping
+```
+
+The Forward genetic screens are a great tool to establish the links between the genetic code and the observed phenotype. However, this can get a little messy, when you are using different models and many different traits as input for your mapping. As the number of SNPs that you can use for mapping is increasing, it is often very difficult to make a visual inspection of the mapping. Using SNPer, you can inspect the GWAS results for multiple traits at the same time and examine the overlapping associations between different traits at the resolution that you want - due to the interactive plotly graphs. The tool is available [here](), instructions on how to use it are [here](https://mmjulkowska.github.io/SNPer/), while the code for the SNPer is available [here](https://github.com/mmjulkowska/SNPer)
 
 ## PAST PROJECTS:
 
@@ -113,6 +119,12 @@ The plant root is the first organ to encounter salinity stress, but the effect o
 After the publication of the paper, I was approached by Guillaume Lobet, who constructed a shiny-tool for Root-Fit. You can find the GitHub repository [here](https://github.com/RootFitProject/RootFitProject.github.io).
 
 The paper was published as [Julkowska et al., Plant Physiology 2014, 166:1387-402. doi: 10.1104/pp.114.248963](http://www.plantphysiol.org/content/166/3/1387.long)
+
+## PROTOCOLS:
+
+![img_2545](https://user-images.githubusercontent.com/14832460/39081927-e1022282-4552-11e8-93be-8f05f552c2da.jpg)
+
+For the protocols developed for the wet-lab as well as for in-silico data analysis, please see my [protocols.io page](https://www.protocols.io/researchers/magdalena-julkowska/protocols).
 
 ## LIST OF PUBLICATIONS:
 

@@ -80,19 +80,7 @@ Previous studies describe that high expression of Arabidopsis High Affinity K+ T
 
 ![screenshot 2018-04-21 11 47 03](https://user-images.githubusercontent.com/14832460/39082313-e56a563a-4559-11e8-8747-f39969350e97.png)
 
-The Forward genetic screens are a great tool to establish the links between the genetic code and the observed phenotype. However, this can get a little messy, when you are using different models and many different traits as input for your mapping. As the number of SNPs that you can use for mapping is increasing, it is often very difficult to make a visual inspection of the mapping. Using SNPer, you can inspect the GWAS results for multiple traits at the same time and examine the overlapping associations between different traits at the resolution that you want - due to the interactive plotly graphs. The tool is available [here](https://mmjulkowska.shinyapps.io/SNPer/), instructions on how to use it are [here](https://mmjulkowska.github.io/SNPer/), while the code for the SNPer is available [here](https://github.com/mmjulkowska/SNPer). DOI: not-yet-there
-
-## COLLABORATIVE PROJECTS
-
-```
-## La isla de tomate
-```
-
-![tab4a](https://user-images.githubusercontent.com/14832460/39082286-6175765c-4559-11e8-8d3b-4242c813d6b9.png)
-
-Ever wondered how salt tolerant the tomatos from Galapagos Island are? A PhD student in KAUST, [Yveline Pailles](https://saltlab.kaust.edu.sa/Pages/Yveline%20Pailles.aspx), explored the salt stress responses of Galapagos accessions of two tomato species Solanum cheesemanea and Solanum galapagense. I helped her with some data analysis and designed an interactive data exploration tool that is available [here](https://mmjulkowska.shinyapps.io/La_isla_de_tomato/). Instructions on how to use the app are available [here](http://mmjulkowska.github.io/La_isla_de_tomato), and the code can be found [here](https://github.com/mmjulkowska/La_isla_de_tomato). DOI: 10.5281/zenodo.1226455
-
-## PAST PROJECTS:
+The Forward genetic screens are a great tool to establish the links between the genetic code and the observed phenotype. However, this can get a little messy, when you are using different models and many different traits as input for your mapping. As the number of SNPs that you can use for mapping is increasing, it is often very difficult to make a visual inspection of the mapping. Using SNPer, you can inspect the GWAS results for multiple traits at the same time and examine the overlapping associations between different traits at the resolution that you want - due to the interactive plotly graphs. The tool is available [here](https://mmjulkowska.shinyapps.io/SNPer/), instructions on how to use it are [here](https://mmjulkowska.github.io/SNPer/), while the code for the SNPer is available [here](https://github.com/mmjulkowska/SNPer). DOI: 10.5281/zenodo.1227775
 
 ```
 ## Salt induced changes in RSA
@@ -131,6 +119,26 @@ The plant root is the first organ to encounter salinity stress, but the effect o
 After the publication of the paper, I was approached by Guillaume Lobet, who constructed a shiny-tool for Root-Fit. You can find the GitHub repository [here](https://github.com/RootFitProject/RootFitProject.github.io).
 
 The paper was published as [Julkowska et al., Plant Physiology 2014, 166:1387-402. doi: 10.1104/pp.114.248963](http://www.plantphysiol.org/content/166/3/1387.long)
+
+
+## COLLABORATIVE PROJECTS
+
+```
+## La isla de tomate
+```
+
+![tab4a](https://user-images.githubusercontent.com/14832460/39082286-6175765c-4559-11e8-8d3b-4242c813d6b9.png)
+
+Ever wondered how salt tolerant the tomatos from Galapagos Island are? A PhD student in KAUST, [Yveline Pailles](https://saltlab.kaust.edu.sa/Pages/Yveline%20Pailles.aspx), explored the salt stress responses of Galapagos accessions of two tomato species Solanum cheesemanea and Solanum galapagense. I helped her with some data analysis and designed an interactive data exploration tool that is available [here](https://mmjulkowska.shinyapps.io/La_isla_de_tomato/). Instructions on how to use the app are available [here](http://mmjulkowska.github.io/La_isla_de_tomato), and the code can be found [here](https://github.com/mmjulkowska/La_isla_de_tomato). DOI: 10.5281/zenodo.1226455
+
+```
+## AI roots
+```
+
+![starting page](https://user-images.githubusercontent.com/14832460/39420410-1dba6380-4c6d-11e8-8920-719fa9be3c4e.jpg)
+
+Quantification of the Root System Architecture is not an easy task. Especially when you want to quantify the roots throughout time. We have a gigantic dataset consisting of over 4000 images of Arabidopsis thaliana roots including quantification of the most informative parameters, like Main Root Length, Lateral Root Density, Total Root Size and Shoot Length. Together with [Andrew Yip](http://andrewyip.me/), we are setting up a platform for deep learning for automatically quantify Root System Architecture from the images. The video can be found [here](https://youtu.be/qjLgRncE3zo), and you can follow our progress on [twitter](https://twitter.com/ai_roots?lang=en) or our [website](https://airoots.github.io/).
+
 
 ## PROTOCOLS:
 
